@@ -46,7 +46,7 @@ https://drive.google.com/drive/folders/1gIGG7RjuGtkdAXXz33AitD7U3YhzBCzY?usp=sha
 ```
 
 | Task | Model Architecture | Dataset | 
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | **Emotion Classification** | BERT Base | GoEmotions | 
 | **News Classification** | BERT Base | AG News | 
 | **NLI** | BERT Base | MNLI | 
@@ -111,12 +111,5 @@ prompt = "### Instruction:\nSummarize this...\n..."
 - M Harits
 
 ---
-
-### Cara Pakai:
-
-1. Copy teks di atas.
-2. Paste ke file `README.md`.
-3. Cari bagian `(LINK_GDRIVE_KAMU_DISINI)` di dalam tabel, lalu ganti dengan link folder Google Drive kamu yang asli.
-4. Ganti `[Nama Kamu]` di bagian paling bawah.
 
 Semoga projectnya lancar jaya bang! 🔥
