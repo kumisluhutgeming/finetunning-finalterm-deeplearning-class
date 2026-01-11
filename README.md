@@ -107,9 +107,9 @@ prompt = "### Instruction:\nSummarize this...\n..."
 
 # **Author:**
 - Bayu Setyo P
-- M Afandi
 - M Harits
 
 ---
 
 Semoga projectnya lancar jaya bang! 🔥
+
